@@ -44,7 +44,7 @@ Solinoids optionally provide a means of automatically engaging power to the inve
 The following bundles are recommended if you don't want to calculate your own setup. I use a scale factor of ~2X panels per battery and always suggest buying batteries in pairs to give an even 24 volts per pair.
 
 ### The Mini
-The mini costs ~$500 for ~1 TO 1 1/2 hours of power at 1000 watts. Recharges in a single sunny day. Order the quantity indicated. Order an extra charger if you can for some failure protection. Solar panels on the Mini output 36 volts when wired in series.
+The mini costs ~$500 for ~3 hours of power at 300 watts, bursting to 600 watts peak (momentary draw). Recharges 1-2 times in a single sunny day. Order the quantity indicated. Order an extra charger for some failure protection. NOTE: Solar panels in the Mini config output ~36 volts and 0.5-4 amps when wired in series.
 
 (3) Panels: [Renogy Solar Panel 100 Watt 12 Volt (Prime)](https://www.amazon.com/dp/B07GF5JY35/ref=psdc_2236628011_t1_B00AQQAAQW)
 
@@ -52,14 +52,15 @@ The mini costs ~$500 for ~1 TO 1 1/2 hours of power at 1000 watts. Recharges in 
 
 (1) Charger: [GHB 20A 12V 24V Solar Charge Controller Auto Switch LCD](https://www.amazon.com/GHB-Controller-Intelligent-Temperature-Compensation/dp/B01LZZMDSQ/)
 
-(1) Inverter: [inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/)
+(1) Inverter: [Go Power! GP-SW300-24 300-Watt Pure Sine Wave Inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/)
 
 (3) 2 AWG 2 Guage Cables: [2 AWG 2 Gauge Single 2 feet w/5/16 Lugs](https://www.amazon.com/Single-Copper-PowerFlex-Battery-Inverter/dp/B072MVYZV2/) 
 NOTE: Order (3) total 2' cables. (2) black, (1) red.
 
-(1) MC4 T-Branch Cable (buy if planning on expanding solar panel numbers): (https://www.amazon.com/T-Branch-connectors-photovoltaic-Systems-Connector/dp/B07S32Z985)
+(1) MC4 T-Branch Cable: (https://www.amazon.com/T-Branch-connectors-photovoltaic-Systems-Connector/dp/B07S32Z985)
+NOTE: Optional. Buy if planning on upgrading system.
 
-(1) Charge Connector: [connector](https://www.amazon.com/dp/B07GFJM8LW/)
+(1) Charge Connector: [WOLFWILL MC4 Connector Solar Panel Adapter Cable to DC 5.5mm x 2.1mm](https://www.amazon.com/dp/B07GFJM8LW/)
 
 # Scaling
 
