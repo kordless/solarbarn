@@ -52,11 +52,12 @@ The mini costs ~$500 for ~1 TO 1 1/2 hours of power at 1000 watts. Recharges in 
 
 (1) Charger: [charger](https://www.amazon.com/GHB-Controller-Intelligent-Temperature-Compensation/dp/B01LZZMDSQ/)
 
-(1) Inverter: [inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/
+(1) Inverter: [inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/)
 
-(3) 2 AWG 2 Guage Cables: [2 AWG 2 Gauge Single 2 feet w/5/16 Lugs](https://www.amazon.com/Single-Copper-PowerFlex-Battery-Inverter/dp/B072MVYZV2/) NOTE: Order (3) total 2 foot cables, (2) black, (1) red.
+(3) 2 AWG 2 Guage Cables: [2 AWG 2 Gauge Single 2 feet w/5/16 Lugs](https://www.amazon.com/Single-Copper-PowerFlex-Battery-Inverter/dp/B072MVYZV2/) 
+NOTE: Order (3) total 2' cables. (2) black, (1) red.
 
-(1) MC4 T-Branch Cable connectors for Solar Panels: 
+(1) MC4 T-Branch Cable connectors for Solar Panels (optional for expansion): (https://www.amazon.com/T-Branch-connectors-photovoltaic-Systems-Connector/dp/B07S32Z985)
 
 # Scaling
 
