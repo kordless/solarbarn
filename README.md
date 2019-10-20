@@ -50,7 +50,7 @@ The mini costs ~$500 for ~1 TO 1 1/2 hours of power at 1000 watts. Recharges in 
 
 (2) Batteries: [Weize 12V 100AH Deep Cycle AGM](https://www.amazon.com/Weize-100AH-Cycle-Battery-Solar/dp/B07SW353M8/) 
 
-(1) Charger: [charger](https://www.amazon.com/GHB-Controller-Intelligent-Temperature-Compensation/dp/B01LZZMDSQ/)
+(1) Charger: [GHB 20A 12V 24V Solar Charge Controller Auto Switch LCD](https://www.amazon.com/GHB-Controller-Intelligent-Temperature-Compensation/dp/B01LZZMDSQ/)
 
 (1) Inverter: [inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/)
 
