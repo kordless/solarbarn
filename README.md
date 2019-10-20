@@ -46,12 +46,17 @@ The following bundles are recommended if you don't want to calculate your own se
 ### The Mini
 The mini costs ~$500 for ~1 TO 1 1/2 hours of power at 1000 watts. Recharges in a single sunny day. Order the quantity indicated. Order an extra charger if you can for some failure protection. Solar panels on the Mini output 36 volts when wired in series.
 
-  (3) Panels: [Renogy Solar Panel 100 Watt 12 Volt (Prime)](https://www.amazon.com/dp/B07GF5JY35/ref=psdc_2236628011_t1_B00AQQAAQW)
-  (2) Batteries: [Weize 12V 100AH Deep Cycle AGM](https://www.amazon.com/Weize-100AH-Cycle-Battery-Solar/dp/B07SW353M8/) 
-  (1) Charger: [charger](https://www.amazon.com/GHB-Controller-Intelligent-Temperature-Compensation/dp/B01LZZMDSQ/)
-  (1) Inverter: [inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/
-  (3) 2 AWG 2 Guage Cables: [2 AWG 2 Gauge Single 2 feet w/5/16 Lugs](https://www.amazon.com/Single-Copper-PowerFlex-Battery-Inverter/dp/B072MVYZV2/) NOTE: Order (3) total 2 foot cables, (2) black, (1) red.
-  (1) MC4 T-Branch Cable connectors for Solar Panels: 
+(3) Panels: [Renogy Solar Panel 100 Watt 12 Volt (Prime)](https://www.amazon.com/dp/B07GF5JY35/ref=psdc_2236628011_t1_B00AQQAAQW)
+
+(2) Batteries: [Weize 12V 100AH Deep Cycle AGM](https://www.amazon.com/Weize-100AH-Cycle-Battery-Solar/dp/B07SW353M8/) 
+
+(1) Charger: [charger](https://www.amazon.com/GHB-Controller-Intelligent-Temperature-Compensation/dp/B01LZZMDSQ/)
+
+(1) Inverter: [inverter](https://www.amazon.com/Go-Power-GP-SW300-24-300-Watt-Inverter/dp/B00153CXVA/
+
+(3) 2 AWG 2 Guage Cables: [2 AWG 2 Gauge Single 2 feet w/5/16 Lugs](https://www.amazon.com/Single-Copper-PowerFlex-Battery-Inverter/dp/B072MVYZV2/) NOTE: Order (3) total 2 foot cables, (2) black, (1) red.
+
+(1) MC4 T-Branch Cable connectors for Solar Panels: 
 
 # Scaling
 
