@@ -1,7 +1,7 @@
 # Solar Barn
 Solar Barn is a simple IN PROGRESS guide for building and maintaining your own off-grid solar electrical system. The system you can build from this guide will give you enough power from the sun to charge phones and laptops, run power tools and most non-refrigeration/heating applicances for short periods of time during a widespread outage. It can make the difference from being able to stay in your home during an outage and having to leave your home to find power.
 
-In a recent PG&E outage out here in California, I was able to run my butane heater for heat (with the system running the fan an ignitor) and my on-demand gas hot water heater for hot water. I also used the system to charge a portable Jackery power bank invertor, which was then used to charge and power our electronic devices.
+In a recent PG&E outage out here in California, I was able to run my propane heater for heat (with the system running the fan an ignitor) and my on-demand gas hot water heater for hot water. I also used the system to charge a portable Jackery power bank invertor, which was then used to charge and power our electronic devices.
 
 Disclaimer: I'm not responsible for anything you do with any of this, so if you short out anything it's not my fault. This information is provided for educational purposes only and I'm saying that to protect myself from the trolls out there. FYT!
 
